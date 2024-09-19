@@ -4,7 +4,7 @@
 
 Make sure you don't have duplicated lines or whole blocks of code. Use your `format_linter_error` function to avoid this.
 
-Also, use the `тт  ` function to format a single file.
+Also, use the `format_single_linter_file` function to format a single file.
 
 ## Code Style
 
